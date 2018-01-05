@@ -9,6 +9,10 @@ This is clearly for fun and can be forked and improved upon.
 
 ![](header.png)
 
+## Python Version for all projects
+
+Python 3.X
+
 ## Installation
 
 OS X & Linux & Windows:
